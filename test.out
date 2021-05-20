@@ -1,0 +1,23 @@
+Epoch 1
+
+Epoch [1/1], Step [0/176], Loss: 80.1176, Acc: 0.0000
+Epoch [1/1], Step [10/176], Loss: 51.4917, Acc: 3.4091
+Epoch [1/1], Step [20/176], Loss: 21.4098, Acc: 6.8452
+Epoch [1/1], Step [30/176], Loss: 35.4862, Acc: 5.2419
+Epoch [1/1], Step [40/176], Loss: 72.9915, Acc: 4.8780
+Epoch [1/1], Step [50/176], Loss: 41.3524, Acc: 5.2696
+Epoch [1/1], Step [60/176], Loss: 33.4447, Acc: 5.4303
+Epoch [1/1], Step [70/176], Loss: 25.8989, Acc: 5.5458
+Epoch [1/1], Step [80/176], Loss: 24.1340, Acc: 5.7099
+Epoch [1/1], Step [90/176], Loss: 21.8835, Acc: 5.4258
+Epoch [1/1], Step [100/176], Loss: 36.0348, Acc: 5.4455
+Epoch [1/1], Step [110/176], Loss: 27.4124, Acc: 5.5743
+Epoch [1/1], Step [120/176], Loss: 31.5501, Acc: 5.6302
+Epoch [1/1], Step [130/176], Loss: 23.5140, Acc: 5.8206
+Epoch [1/1], Step [140/176], Loss: 30.1585, Acc: 6.0727
+Epoch [1/1], Step [150/176], Loss: 13.7409, Acc: 6.1258
+Epoch [1/1], Step [160/176], Loss: 20.8361, Acc: 6.1335
+Epoch [1/1], Step [170/176], Loss: 16.5423, Acc: 6.5058
+
+train loss: 31.2957,
+train Acc: 6.7827
